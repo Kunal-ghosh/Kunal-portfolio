@@ -2,8 +2,7 @@ import * as THREE from "https://esm.sh/three@0.178.0";
 import { Pane } from "https://cdn.skypack.dev/tweakpane@4.0.4";
 
 let scene, camera, renderer, material;
-let clock,
-  mouse = { x: 0, y: 0 };
+let clock;
 let cursorSphere3D = new THREE.Vector3(0, 0, 0);
 let activeMerges = 0;
 let targetMousePosition = new THREE.Vector2(0.5, 0.5);
