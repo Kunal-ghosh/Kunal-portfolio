@@ -31,6 +31,9 @@ const robotoFlex = Roboto_Flex({
 export const metadata: Metadata = {
     title: 'Portfolio - Kunal Ghosh',
     description: 'Personal portfolio of Kunal Ghosh',
+    icons: {
+        icon: '/favicon.ico',
+    },
 };
 
 export default function RootLayout({
