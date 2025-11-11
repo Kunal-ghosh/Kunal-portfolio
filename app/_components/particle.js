@@ -32,7 +32,7 @@ const presets = {
     fresnelPower: 1.2,
     backgroundColor: new THREE.Color(0x050505),
     sphereColor: new THREE.Color(0x000000),
-    lightColor: new THREE.Color(0xffffff),
+    lightColor: new THREE.Color(0x674ea7),
     lightPosition: new THREE.Vector3(1, 1, 1),
     smoothness: 0.9,
     contrast: 2.0,

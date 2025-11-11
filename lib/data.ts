@@ -278,6 +278,25 @@ export const MY_STACK = {
 //     },
 // ];
 export const PROJECTS: IProject[] = [
+    {
+        title: "portfolio",
+        slug: "portfolio",
+        techStack: ["Next.js", "Tailwind CSS", "TypeScript", "Three.js"],
+        thumbnail: "/logo/arrow.png",
+        longThumbnail: "/logo/arrow.png",
+        images: [], 
+        year: 2025,
+        description: `
+        A portfolio website built using Next.js and Tailwind CSS. It is a 3D portfolio website built using Three.js.
+        `,
+        role: `
+        Frontend Developer
+        Designed & built portfolio using Next.js and Tailwind CSS
+        Implemented responsive design
+        Implemented TypeScript
+        Implemented Three.js
+        `,
+    },
 {
     title: "GitHub Webhook Listener",
     slug: "webhook-repo",

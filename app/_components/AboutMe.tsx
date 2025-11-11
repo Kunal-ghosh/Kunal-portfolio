@@ -59,9 +59,7 @@ const AboutMe = () => {
                 style={{ position: 'relative', zIndex: 1000 }}
             >
                 <h2 className="text-4xl md:text-6xl font-thin mb-20 slide-up-and-fade">
-                    I believe in a user centered design approach, ensuring that
-                    every project I work on is tailored to meet the specific
-                    needs of its users.
+                I believe in building platforms that are secure, high-performance, and optimized for growth. By combining strong backend foundations with intuitive interfaces, I ensure products remain reliable while adapting to evolving user needs.
                 </h2>
 
                 <p className="pb-3 border-b text-muted-foreground slide-up-and-fade">
@@ -77,7 +75,7 @@ const AboutMe = () => {
                     <div className="md:col-span-12 flex flex-col">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-8 slide-up-and-fade">
                             <img
-                                src="/logo/me1.png"
+                                src="/logo/me2.png"
                                 alt="Kunal"
                                 width={300}
                                 height={300}
