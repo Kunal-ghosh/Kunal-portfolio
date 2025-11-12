@@ -56,7 +56,7 @@ const AboutMe = () => {
             <div
                 className="container"
                 ref={container}
-                style={{ position: 'relative', zIndex: 1000 }}
+                style={{ position: 'relative', zIndex: 1 }}
             >
                 <h2 className="text-4xl md:text-6xl font-thin mb-20 slide-up-and-fade">
                 I believe in building platforms that are secure, high-performance, and optimized for growth. By combining strong backend foundations with intuitive interfaces, I ensure products remain reliable while adapting to evolving user needs.

@@ -107,7 +107,7 @@ const ProjectList = () => {
         <section className="pb-section" id="selected-projects">
             <div className="container">
                 {/* <SectionTitle title="PERSONAL PROJECTS" className="text-[#72ff73] z-[100]" /> */}
-                <div className="relative z-[1000]">
+                <div className="relative z-[1]">
                     <SectionTitle title="PERSONAL PROJECTS" />
                 </div>
 
